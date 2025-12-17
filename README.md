@@ -3,7 +3,7 @@ A collection of projects I developed while working towards the Zenva Academy "Ph
 
 ## Dragons-Crossing-Game
 An HTML5 road crossing game built using PhaserJS. This was my very first game development project!  
-Demo: [dragons-crossing1.vercel.app](dragons-crossing1.vercel.app)
+Demo: [dragons-crossing1.vercel.app](dragons-crossing.vercel.app)
 
 ## Virtual-Pet-Game
 This is an virtual pet game created using the Phaser JavaScript library  
